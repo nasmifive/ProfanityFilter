@@ -1,6 +1,5 @@
 ## Intro
 
-One of the things we do at Euromoney is publish and manage content.
 This assignment is to analyse text, detecting and filtering negative words.
 
 - This assignment takes between 30 minutes and an hour.
